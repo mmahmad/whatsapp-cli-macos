@@ -1,5 +1,7 @@
 # WhatsApp Companion Data Analyzer
 
+[![WhatsApp CLI MacOS](https://github.com/mmahmad/whatsapp-cli-macos/actions/workflows/python-app.yml/badge.svg)](https://github.com/mmahmad/whatsapp-cli-macos/actions/workflows/python-app.yml)
+
 A powerful command-line tool for searching and browsing your local WhatsApp message history on macOS with fuzzy matching, interactive navigation, and conversation viewing.
 
 ## Features
